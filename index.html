@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pooja Yadav | Portfolio</title>
+    <!-- Modern Typography from Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Feather Icons for lightweight modern icons -->
+    <script src="https://unpkg.com/feather-icons"></script>
+</head>
+
+<body>
+
+    <!-- Dynamic Background Elements -->
+    <div class="paw paw-1"></div>
+    <div class="paw paw-2"></div>
+    <div class="paw paw-3"></div>
+
+    <nav class="glass-nav">
+        <div class="nav-container">
+            <a href="#" class="logo">Pooja Yadav.</a>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <!-- Hero Section -->
+        <section id="hero" class="hero">
+            <div class="hero-content">
+                <h1 class="hero-title">
+                    Hi, I'm <span class="gradient-text">Pooja Yadav</span>
+                </h1>
+                <h2 class="hero-subtitle">
+                    <span id="typing-text"></span><span class="cursor">|</span>
+                </h2>
+                <p class="hero-description">
+                    Fetching data, sniffing out bugs, and building intelligent web solutions! 🐾
+                </p>
+                <div class="hero-ctas">
+                    <a href="#projects" class="btn btn-primary">View My Work</a>
+                    <a href="https://github.com/Poojaay" target="_blank" class="btn btn-secondary">
+                        <i data-feather="github"></i> GitHub
+                    </a>
+                </div>
+            </div>
+            <div class="hero-image-wrapper">
+                <div class="hero-image-glow"></div>
+                <img src="assets/coding_dog.png" alt="Coding Dog" class="hero-image"
+                    onerror="this.src='https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'">
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="section">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-container glass-card">
+                <div class="about-text">
+                    <p>
+                        I'm a passionate developer focused on solving real-world problems using Python, Machine
+                        Learning, and Cloud technologies. Whether tracking data or learning new tricks, my work ranges from retail analytics to IoT plant monitoring.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="section">
+            <h2 class="section-title">Featured Projects</h2>
+            <div class="projects-grid">
+
+                <div class="project-card glass-card">
+                    <div class="project-header">
+                        <i data-feather="bar-chart-2" class="project-icon"></i>
+                        <h3 class="project-title">Smart Retail Analytics Platform</h3>
+                    </div>
+                    <p class="project-desc">A cloud-based, AI-powered analytics system for retail chains to predict
+                        product demand and detect anomalies.</p>
+                    <div class="project-tags">
+                        <span class="tag">AI</span>
+                        <span class="tag">Analytics</span>
+                        <span class="tag">Cloud</span>
+                    </div>
+                    <a href="https://github.com/Poojaay/Smart-Retail-Analytics-Platform" target="_blank"
+                        class="project-link">Source Code <i data-feather="arrow-right"></i></a>
+                </div>
+
+                <div class="project-card glass-card">
+                    <div class="project-header">
+                        <i data-feather="cpu" class="project-icon"></i>
+                        <h3 class="project-title">Smart Plant Monitoring System</h3>
+                    </div>
+                    <p class="project-desc">An intelligent IoT-based monitoring system providing real-time data on plant
+                        health and conditions.</p>
+                    <div class="project-tags">
+                        <span class="tag">IoT</span>
+                        <span class="tag">Python</span>
+                    </div>
+                    <a href="https://github.com/Poojaay/Smart-Plant-Monitoring-System" target="_blank"
+                        class="project-link">Source Code <i data-feather="arrow-right"></i></a>
+                </div>
+
+                <div class="project-card glass-card">
+                    <div class="project-header">
+                        <i data-feather="trending-up" class="project-icon"></i>
+                        <h3 class="project-title">Car Price & Grade Prediction</h3>
+                    </div>
+                    <p class="project-desc">Data science models using Jupyter Notebooks to predict automotive pricing
+                        and student academic performance.</p>
+                    <div class="project-tags">
+                        <span class="tag">Jupyter</span>
+                        <span class="tag">Data Science</span>
+                    </div>
+                    <div class="project-links-multi">
+                        <a href="https://github.com/Poojaay/carprice" target="_blank" class="project-link">Car Price <i
+                                data-feather="external-link"></i></a>
+                        <a href="https://github.com/Poojaay/student-grade-prediction" target="_blank"
+                            class="project-link">Grades <i data-feather="external-link"></i></a>
+                    </div>
+                </div>
+
+                <div class="project-card glass-card">
+                    <div class="project-header">
+                        <i data-feather="cloud" class="project-icon"></i>
+                        <h3 class="project-title">Cloud Native App</h3>
+                    </div>
+                    <p class="project-desc">A scalable cloud-native application written in Python showcasing modern
+                        architecture and deployment strategies.</p>
+                    <div class="project-tags">
+                        <span class="tag">Python</span>
+                        <span class="tag">Cloud Native</span>
+                    </div>
+                    <a href="https://github.com/Poojaay/cloud_native_app" target="_blank" class="project-link">Source
+                        Code <i data-feather="arrow-right"></i></a>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Skills Section -->
+        <section id="skills" class="section">
+            <h2 class="section-title">Technical Expertise</h2>
+            <div class="skills-container">
+                <div class="skill-category glass-card">
+                    <h3>Languages & Tools</h3>
+                    <div class="skill-list">
+                        <div class="skill-item">Python</div>
+                        <div class="skill-item">Jupyter Notebooks</div>
+                        <div class="skill-item">HTML/CSS/JS</div>
+                    </div>
+                </div>
+                <div class="skill-category glass-card">
+                    <h3>Domains</h3>
+                    <div class="skill-list">
+                        <div class="skill-item">Data Analytics</div>
+                        <div class="skill-item">Machine Learning</div>
+                        <div class="skill-item">IoT Platforms</div>
+                        <div class="skill-item">Cloud Native</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="section">
+            <div class="contact-box glass-card">
+                <h2 class="section-title">Get In Touch</h2>
+                <p>I'm always open to discussing new projects, creative ideas or opportunities to join your pack.</p>
+                
+                <div class="contact-methods">
+                    <a href="mailto:pooja.yadav26480@gmail.com" class="contact-item">
+                        <i data-feather="mail"></i> pooja.yadav26480@gmail.com
+                    </a>
+                    <a href="https://github.com/Poojaay" target="_blank" class="contact-item">
+                        <i data-feather="github"></i> github.com/Poojaay
+                    </a>
+                </div>
+
+                <div class="query-section">
+                    <h3>Send a Query</h3>
+                    <form class="query-form" action="#" method="POST">
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" id="name" name="name" required placeholder="Your Name">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" required placeholder="Your Email">
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Message</label>
+                            <textarea id="message" name="message" rows="4" required placeholder="Your Query..."></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Send Message <i data-feather="send"></i></button>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Pooja Yadav. Crafted with minimal constraints, pure passion, and lots of treats. 🦴</p>
+    </footer>
+
+    <!-- Initialize icons -->
+    <script>
+        feather.replace()
+    </script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
