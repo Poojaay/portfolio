@@ -1,0 +1,201 @@
+CustomerID,FirstName,LastName,Country,Segment
+1,Pooja,Johnson,United States,Home Office
+2,Grace,Brown,Australia,Consumer
+3,Sneha,Johnson,United Kingdom,Home Office
+4,Niaj,Smith,United States,Consumer
+5,Eve,Brown,United States,Home Office
+6,Eve,Sharma,France,Consumer
+7,Olivia,Martinez,India,Consumer
+8,Karan,Singh,Canada,Home Office
+9,Niaj,Garcia,India,Consumer
+10,Eve,Singh,Germany,Consumer
+11,Alice,Miller,United Kingdom,Corporate
+12,Judy,Martinez,India,Consumer
+13,Sneha,Davis,United Kingdom,Corporate
+14,Alice,Rodriguez,India,Home Office
+15,Walter,Kumar,Germany,Home Office
+16,Eve,Sharma,United Kingdom,Consumer
+17,Aarav,Brown,India,Consumer
+18,Frank,Patel,United Kingdom,Corporate
+19,Grace,Davis,Germany,Consumer
+20,Judy,Garcia,Australia,Home Office
+21,Grace,Sharma,United Kingdom,Home Office
+22,Pooja,Williams,Australia,Consumer
+23,Olivia,Miller,India,Home Office
+24,Rahul,Rodriguez,Australia,Home Office
+25,Ivan,Patel,United States,Consumer
+26,Jane,Singh,Germany,Corporate
+27,Grace,Johnson,Australia,Home Office
+28,Rahul,Garcia,Australia,Home Office
+29,Peggy,Miller,Japan,Consumer
+30,Grace,Williams,Australia,Home Office
+31,Trent,Rodriguez,India,Home Office
+32,Victor,Miller,France,Corporate
+33,Frank,Williams,Japan,Consumer
+34,Karan,Smith,United Kingdom,Consumer
+35,Pooja,Williams,France,Home Office
+36,Alice,Miller,France,Home Office
+37,Olivia,Rodriguez,India,Home Office
+38,John,Yadav,United Kingdom,Home Office
+39,Trent,Singh,India,Home Office
+40,Ivan,Johnson,India,Corporate
+41,Diana,Davis,United States,Home Office
+42,Sneha,Jones,Canada,Home Office
+43,Bob,Patel,India,Home Office
+44,Sybil,Martinez,Australia,Consumer
+45,Judy,Singh,Canada,Home Office
+46,Karan,Kumar,United States,Home Office
+47,Ivan,Davis,United States,Consumer
+48,Judy,Kumar,India,Consumer
+49,Jane,Brown,United Kingdom,Consumer
+50,Sneha,Davis,United Kingdom,Home Office
+51,Karan,Williams,Canada,Home Office
+52,Peggy,Rodriguez,Canada,Corporate
+53,Sybil,Patel,France,Consumer
+54,Trent,Singh,Australia,Home Office
+55,Heidi,Miller,Germany,Corporate
+56,Sybil,Davis,United Kingdom,Consumer
+57,Frank,Johnson,Germany,Consumer
+58,Victor,Rodriguez,Australia,Home Office
+59,Frank,Smith,United Kingdom,Home Office
+60,Pooja,Smith,Australia,Consumer
+61,Jane,Patel,Germany,Consumer
+62,Sybil,Brown,India,Home Office
+63,Peggy,Brown,Canada,Home Office
+64,Victor,Martinez,Japan,Consumer
+65,Peggy,Singh,France,Consumer
+66,Bob,Johnson,France,Corporate
+67,Niaj,Miller,Japan,Home Office
+68,Jane,Yadav,United Kingdom,Consumer
+69,Mallory,Sharma,Germany,Consumer
+70,Frank,Brown,Australia,Home Office
+71,Olivia,Williams,France,Consumer
+72,Grace,Davis,Australia,Consumer
+73,Olivia,Singh,United Kingdom,Consumer
+74,Pooja,Rodriguez,United States,Consumer
+75,Karan,Patel,Australia,Consumer
+76,Niaj,Davis,Japan,Consumer
+77,Mallory,Kumar,United States,Consumer
+78,Mallory,Smith,France,Corporate
+79,Olivia,Jones,France,Home Office
+80,Sneha,Singh,Japan,Consumer
+81,Eve,Jones,Australia,Consumer
+82,Victor,Sharma,United States,Home Office
+83,Ivan,Smith,United States,Home Office
+84,Peggy,Rodriguez,Canada,Consumer
+85,Sybil,Johnson,Canada,Consumer
+86,Walter,Johnson,Australia,Corporate
+87,Bob,Kumar,Australia,Home Office
+88,Walter,Smith,United Kingdom,Corporate
+89,Aarav,Martinez,Germany,Corporate
+90,Eve,Yadav,Germany,Consumer
+91,Grace,Miller,Canada,Home Office
+92,Pooja,Jones,Japan,Corporate
+93,Karan,Kumar,United Kingdom,Consumer
+94,Olivia,Martinez,United Kingdom,Consumer
+95,Trent,Brown,India,Consumer
+96,Judy,Kumar,United Kingdom,Consumer
+97,Judy,Jones,Canada,Corporate
+98,Trent,Sharma,India,Home Office
+99,Pooja,Rodriguez,United States,Home Office
+100,Trent,Jones,United Kingdom,Consumer
+101,Grace,Johnson,United Kingdom,Home Office
+102,Trent,Williams,India,Corporate
+103,Walter,Brown,Germany,Consumer
+104,Aarav,Yadav,India,Home Office
+105,Peggy,Jones,United States,Consumer
+106,Pooja,Miller,India,Consumer
+107,John,Garcia,Canada,Home Office
+108,Grace,Williams,Japan,Home Office
+109,Rahul,Miller,United States,Consumer
+110,Alice,Kumar,Canada,Home Office
+111,Jane,Patel,Germany,Home Office
+112,Trent,Williams,France,Consumer
+113,Jane,Jones,Germany,Consumer
+114,Judy,Brown,Australia,Home Office
+115,Bob,Garcia,France,Home Office
+116,Sneha,Williams,Australia,Consumer
+117,Diana,Kumar,France,Consumer
+118,Diana,Sharma,Germany,Corporate
+119,Aarav,Patel,Australia,Corporate
+120,Diana,Singh,United Kingdom,Corporate
+121,Jane,Patel,Japan,Consumer
+122,Eve,Patel,Japan,Corporate
+123,Heidi,Patel,Australia,Consumer
+124,John,Yadav,Australia,Corporate
+125,Ivan,Jones,United Kingdom,Corporate
+126,Judy,Yadav,France,Home Office
+127,Trent,Garcia,United States,Consumer
+128,Grace,Williams,India,Consumer
+129,Bob,Martinez,France,Corporate
+130,Sneha,Singh,Germany,Corporate
+131,Walter,Rodriguez,United Kingdom,Corporate
+132,Victor,Brown,India,Consumer
+133,Rahul,Miller,United States,Home Office
+134,Trent,Yadav,Australia,Corporate
+135,Niaj,Johnson,Germany,Home Office
+136,Ivan,Yadav,United Kingdom,Home Office
+137,Heidi,Rodriguez,India,Home Office
+138,Niaj,Garcia,France,Home Office
+139,Heidi,Rodriguez,Canada,Consumer
+140,Niaj,Yadav,France,Home Office
+141,Sneha,Kumar,Canada,Home Office
+142,Victor,Jones,France,Home Office
+143,John,Jones,India,Consumer
+144,Niaj,Singh,Germany,Corporate
+145,Olivia,Davis,Australia,Home Office
+146,Peggy,Singh,Canada,Home Office
+147,Alice,Jones,Germany,Consumer
+148,Karan,Brown,India,Consumer
+149,Eve,Williams,United States,Consumer
+150,Frank,Davis,United Kingdom,Corporate
+151,Niaj,Kumar,Australia,Home Office
+152,Rahul,Miller,Japan,Corporate
+153,Frank,Williams,United States,Consumer
+154,Karan,Miller,Australia,Consumer
+155,Rahul,Rodriguez,Japan,Consumer
+156,Trent,Brown,United Kingdom,Corporate
+157,Charlie,Singh,Japan,Home Office
+158,Sybil,Rodriguez,Germany,Corporate
+159,Walter,Patel,France,Home Office
+160,Olivia,Kumar,Canada,Home Office
+161,Peggy,Davis,India,Consumer
+162,Pooja,Jones,Japan,Home Office
+163,Frank,Jones,Japan,Consumer
+164,Rahul,Jones,Australia,Corporate
+165,Ivan,Garcia,United Kingdom,Consumer
+166,Charlie,Brown,France,Home Office
+167,Charlie,Sharma,Australia,Consumer
+168,Niaj,Miller,Germany,Home Office
+169,Olivia,Miller,United States,Consumer
+170,Niaj,Miller,United States,Home Office
+171,Mallory,Davis,United States,Corporate
+172,Heidi,Singh,France,Corporate
+173,Trent,Sharma,Australia,Corporate
+174,Frank,Jones,France,Corporate
+175,John,Miller,Germany,Home Office
+176,Aarav,Singh,France,Home Office
+177,Diana,Patel,Japan,Consumer
+178,Walter,Rodriguez,United States,Corporate
+179,Victor,Martinez,United States,Consumer
+180,Pooja,Miller,Canada,Corporate
+181,Diana,Smith,India,Corporate
+182,Ivan,Brown,Japan,Corporate
+183,Ivan,Singh,France,Corporate
+184,Karan,Patel,France,Corporate
+185,Alice,Davis,United States,Home Office
+186,Trent,Smith,Germany,Consumer
+187,Pooja,Johnson,United States,Consumer
+188,Frank,Brown,United States,Home Office
+189,Charlie,Brown,Canada,Corporate
+190,Aarav,Johnson,Australia,Corporate
+191,Rahul,Jones,Germany,Consumer
+192,Walter,Martinez,United Kingdom,Consumer
+193,Heidi,Johnson,United States,Corporate
+194,Victor,Yadav,France,Corporate
+195,Rahul,Brown,United Kingdom,Home Office
+196,Rahul,Patel,Australia,Consumer
+197,Rahul,Singh,India,Home Office
+198,Walter,Singh,United Kingdom,Home Office
+199,Jane,Garcia,France,Home Office
+200,Judy,Johnson,Germany,Consumer
